@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Sankalp Sinha
-- 🌱 Currently working as Senior Product Designer @SellerCrowd.com
-- 💼 Previously worked @VWO.com @VDX.tv
+- 🌱 Currently working as Senior Product Designer @ SellerCrowd.com
+- 💼 Previously worked @ VWO.com & VDX.tv
 - 👀 Open to new oppotunities
 - 📫 Reach me on Twitter http://twitter.com/sankalpdomore
 
