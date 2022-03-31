@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Sankalp Sinha
-- 🌱 Senior Product Designer  ❋  9+ yrs into design  ❋  4+ yrs in remote
+- 🌱 Senior Product Designer  ❋  10+ yrs into design  ❋  4+ yrs in remote
 - 🎨 Currently redesigning my personal website @ [sankalpsinha.com](sankalpsinha.com)
 - 💼 Previously worked @ [sellercrowd.com](sellercrowd.com) [VWO.com](VWO.com) & [VDX.tv](VDX.tv)
 - 👀 Open to new oppotunities
