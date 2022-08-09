@@ -1,8 +1,8 @@
 - 👋 Hi, my name is Sankalp Sinha
 - 🌱 Senior Product Designer  ❋  10+ yrs into design  ❋  4+ yrs in remote
 - 🎨 Currently:
-  - 🖥 Leading design @ [goharbor.xyz](Harbor)
-  - 💰 Making product bets with Visit.Page & BuildwithFramer
+  - 🖥 Leading design @ [Harbor](goharbor.xyz)
+  - 💰 Making product bets with [Visit.Page](visit.page) & [BuildwithFramer](https://buildwithframer.com)
   - 🖌 Re-designing my personal website @ [sankalpsinha.com](sankalpsinha.com)
 - 💼 Previously worked @ [sellercrowd.com](sellercrowd.com), [VWO.com](VWO.com), & [VDX.tv](VDX.tv)
 - 📫 Say hi on Twitter http://twitter.com/sankalpdomore
