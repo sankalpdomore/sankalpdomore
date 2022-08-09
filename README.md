@@ -2,7 +2,6 @@
 - 🌱 Senior Product Designer  ❋  10+ yrs into design  ❋  4+ yrs in remote
 - 🎨 Currently redesigning my personal website @ [sankalpsinha.com](sankalpsinha.com)
 - 💼 Previously worked @ [sellercrowd.com](sellercrowd.com) [VWO.com](VWO.com) & [VDX.tv](VDX.tv)
-- 👀 Open to new oppotunities
 - 📫 Say hi on Twitter http://twitter.com/sankalpdomore
 
 <!---
